@@ -1,0 +1,23 @@
+.display{
+ border: 2px solid palevioletred;
+border-radius: 10px;
+ gap: 10px;
+ width: 260px;
+ height: 360px;
+}
+.display img{
+height: 120px;
+width: 220px;
+padding: 20px;
+
+}
+.display-container{
+    padding-left: 60px;
+}
+.btn-add{
+  
+   background-color:palevioletred;
+   border: none;
+   padding: 10px;
+   border-radius: 5px;
+}

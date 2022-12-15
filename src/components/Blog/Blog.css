@@ -1,0 +1,17 @@
+.blog-container{
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding: 20px;
+    border: 1px solid palevioletred;
+    background-color: plum;
+    border-radius: 10px;
+      
+}
+
+@media only screen and (max-width: 767px) {
+.blog-container{
+    margin: 50px;
+}
+}
